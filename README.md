@@ -1,4 +1,4 @@
-# Horizons React &amp; Express project template
+# React &amp; Login template
 
 ## Usage
 
@@ -7,7 +7,7 @@
 Start your application. This will start your server and start compiling JSX into
 plain JavaScript.
 
-Express main file is `app.js`.  React files are in `client/index.js`
+Express main file is `app.js`.  React files are in `/client`
 
 ## ESLint
 
